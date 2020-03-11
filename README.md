@@ -1,6 +1,6 @@
-# ECommerce Project Using Linear Regression
+# Answering Business Questions Using Linear Regression
 
-Data exploration and application of Linear Regression ML algorithm (using Scikit-Learn) for a fake ECommerce dataset.
+Data exploration and application of Linear Regression ML algorithm (using Scikit-Learn) for a fake ECommerce dataset. The problem is whether the New York ECommerce company should focus their efforts on their mobile app or their website.
 
 A machine learning application exercise from Jose Portilla's course, **Python for Data Science and Machine Learning Bootcamp**.
 
